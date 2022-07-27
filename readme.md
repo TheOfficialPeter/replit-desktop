@@ -4,6 +4,6 @@
 ### installing / running
 ```
 git clone https://github.com/TheOfficialPeter/replit-desktop
-cd package
+cd replit-desktop
 npm start
 ```
