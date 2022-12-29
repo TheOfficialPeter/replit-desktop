@@ -1,6 +1,6 @@
-# A replit-desktop clone 
+# replit-desktop
 
-### Could not seem to find one on github so I quickly made my own (electron). You should have npm and nodejs installed along with the npm electron package.
+Could not find one on github so I quickly made my own (using electron). You should have npm and nodejs installed along with the npm electron package.
 
 ### Clone the repository
 ```
